@@ -20,8 +20,8 @@ Oceanographic parameters exhibit complex spatiotemporal dynamics, non-linear phy
 
 ## 🌊 Target Parameters
 
-- **Absolute Dynamic Topography (ADT) [$m$]:** Measures sea surface height anomalies; critical for mapping geostrophic currents, mesoscale eddies, and oceanic circulation patterns.
-- **Chlorophyll-a (Chl-a) [$mg/m^3$]:** Measures marine phytoplankton concentration; exhibits log-normal distributions and high spatial variability due to river runoff and upwelling.
+- **Absolute Dynamic Topography (ADT) [m]:** Measures sea surface height anomalies; critical for mapping geostrophic currents, mesoscale eddies, and oceanic circulation patterns.
+- **Chlorophyll-a (Chl-a) [mg/m^3]:** Measures marine phytoplankton concentration; exhibits log-normal distributions and high spatial variability due to river runoff and upwelling.
 
 ---
 
@@ -42,7 +42,7 @@ Oceanographic parameters exhibit complex spatiotemporal dynamics, non-linear phy
 
 ```text
 ├── data/
-│   ├── raw/                  # Place raw .nc files (ADT.nc, CHL.nc)
+│   ├── raw/                  # Place raw .nc files (ADT.nc, CHL.nc) adding dummy data 
 │   └── processed/            # Processed Numpy tensors & adjacency matrices
 ├── models/
 │   ├── lstm.py               # Standard LSTM implementation
