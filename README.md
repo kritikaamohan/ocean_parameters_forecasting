@@ -38,7 +38,7 @@ Oceanographic parameters exhibit complex spatiotemporal dynamics, non-linear phy
 
 ---
 
-## 📁 Repository Structure
+<!--## 📁 Repository Structure
 
 ```text
 ├── data/
@@ -57,3 +57,4 @@ Oceanographic parameters exhibit complex spatiotemporal dynamics, non-linear phy
 ├── benchmark_runner.py       # Main scheduler & benchmarking execution script
 ├── README.md
 └── requirements.txt
+-->
