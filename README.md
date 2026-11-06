@@ -1,4 +1,6 @@
-# Performance Benchmarking of Deep Learning Architectures for Satellite Ocean Parameter Forecasting
+# Performance Benchmarking of Deep Learning Architectures for Independent Forecasting of Satellite-Derived Ocean Parameters
+
+
 
 This repository provides a unified benchmarking framework to evaluate, compare, and visualize five distinct deep learning architectural paradigms for independent multi-day forecasting of satellite-derived ocean parameters: **Absolute Dynamic Topography (ADT)** and **Chlorophyll-a (Chl-a)**.
 
